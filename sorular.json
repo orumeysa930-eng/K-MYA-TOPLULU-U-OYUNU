@@ -1,1 +1,83 @@
 [{"id": 1,"soru": "İdeal gaz: n=1.5 mol, T=298 K, P=0.5 atm için V kaç L? (R=0,082057)","seçenekler": ["63.949 L", "74.149 L", "70.403 L", "73.359 L", "63.632 L"],"doğruCevap": "A"},{"id": 2,"soru": "İdeal gaz: n=2.0 mol, T=350 K, V=5.0 L için P kaç atm? (R=0,082057)","seçenekler": ["12.614 atm", "10.191 atm", "11.488 atm", "10.077 atm", "11.228 atm"],"doğruCevap": "A"},{"id": 3,"soru": "İdeal gaz: n=0.5 mol, T=298 K, V=22.4 L için P kaç atm? (R=0,082057)","seçenekler": ["0.488 atm", "0.511 atm", "0.546 atm", "0.605 atm", "0.483 atm"],"doğruCevap": "B"},{"id": 4,"soru": "İdeal gaz: n=1.5 mol, T=273 K, V=22.4 L için P kaç atm? (R=0,082057)","seçenekler": ["1.581 atm", "1.5 atm", "1.468 atm", "1.302 atm", "1.368 atm"],"doğruCevap": "A"},{"id": 5,"soru": "İdeal gaz: n=1.5 mol, T=310 K, V=5.0 L için P kaç atm? (R=0,082057)","seçenekler": ["7.631 atm", "7.689 atm", "8.087 atm", "7.802 atm", "7.045 atm"],"doğruCevap": "A"},{"id": 6,"soru": "İdeal gaz: n=0.5 mol, T=400 K, P=1.0 atm için V kaç L? (R=0,082057)","seçenekler": ["16.357 L", "17.677 L", "14.143 L", "16.411 L", "14.698 L"],"doğruCevap": "D"},{"id": 7,"soru": "İdeal gaz: n=3.0 mol, T=350 K, P=0.5 atm için V kaç L? (R=0,082057)","seçenekler": ["189.895 L", "170.981 L", "180.806 L", "172.32 L", "195.308 L"],"doğruCevap": "A"},{"id": 8,"soru": "İdeal gaz: n=1.5 mol, T=350 K, P=0.5 atm için V kaç L? (R=0,082057)","seçenekler": ["89.027 L", "86.16 L", "97.55 L", "85.997 L", "82.424 L"],"doğruCevap": "A"},{"id": 9,"soru": "İdeal gaz: n=2.0 mol, T=350 K, P=0.5 atm için V kaç L? (R=0,082057)","seçenekler": ["102.367 L", "103.381 L", "114.88 L", "107.223 L", "111.49 L"],"doğruCevap": "E"},{"id": 10,"soru": "İdeal gaz: n=1.5 mol, T=350 K, V=5.0 L için P kaç atm? (R=0,082057)","seçenekler": ["7.715 atm", "9.026 atm", "7.355 atm", "8.616 atm", "7.538 atm"],"doğruCevap": "D"},{"id": 11,"soru": "İdeal gaz: n=0.5 mol, T=298 K, P=3.0 atm için V kaç L? (R=0,082057)","seçenekler": ["4.157 L", "4.075 L", "4.308 L", "3.916 L", "4.629 L"],"doğruCevap": "B"},{"id": 12,"soru": "İdeal gaz: n=2.0 mol, T=350 K, P=0.5 atm için V kaç L? (R=0,082057)","seçenekler": ["111.449 L", "114.243 L", "131.583 L", "104.217 L", "114.88 L"],"doğruCevap": "E"},{"id": 13,"soru": "İdeal gaz: n=3.0 mol, T=273 K, V=2.0 L için P kaç atm? (R=0,082057)","seçenekler": ["38.128 atm", "33.971 atm", "34.749 atm", "34.276 atm", "33.602 atm"],"doğruCevap": "A"},{"id": 14,"soru": "İdeal gaz: n=1.0 mol, T=310 K, P=3.0 atm için V kaç L? (R=0,082057)","seçenekler": ["7.52 L", "8.134 L", "8.479 L", "9.367 L", "9.734 L"],"doğruCevap": "C"},{"id": 15,"soru": "İdeal gaz: n=0.5 mol, T=298 K, V=10.0 L için P kaç atm? (R=0,082057)","seçenekler": ["1.215 atm", "1.311 atm", "1.293 atm", "1.229 atm", "1.223 atm"],"doğruCevap": "D"},{"id": 16,"soru": "İdeal gaz: n=3.0 mol, T=310 K, V=10.0 L için P kaç atm? (R=0,082057)","seçenekler": ["7.301 atm", "6.997 atm", "7.673 atm", "8.566 atm", "7.631 atm"],"doğruCevap": "E"},{"id": 17,"soru": "İdeal gaz: n=3.0 mol, T=298 K, V=12.0 L için P kaç atm? (R=0,082057)","seçenekler": ["6.113 atm", "5.612 atm", "6.146 atm", "6.553 atm", "5.848 atm"],"doğruCevap": "C"},{"id": 18,"soru": "İdeal gaz: n=1.5 mol, T=298 K, P=2.0 atm için V kaç L? (R=0,082057)","seçenekler": ["20.037 L", "19.567 L", "20.95 L", "18.34 L", "17.512 L"],"doğruCevap": "C"},{"id": 19,"soru": "İdeal gaz: n=2.0 mol, T=298 K, P=1.0 atm için V kaç L? (R=0,082057)","seçenekler": ["48.906 L", "50.524 L", "56.025 L", "41.598 L", "48.651 L"],"doğruCevap": "B"},{"id": 20,"soru": "İdeal gaz: n=2.0 mol, T=298 K, P=1.0 atm için V kaç L? (R=0,082057)","seçenekler": ["48.906 L", "42.843 L", "47.937 L", "55.452 L", "50.899 L"],"doğruCevap": "E"},{"id": 21,"soru": "İdeal gaz: n=1.0 mol, T=298 K, V=2.0 L için P kaç atm? (R=0,082057)","seçenekler": ["10.947 atm", "10.929 atm", "12.226 atm", "13.711 atm", "13.351 atm"],"doğruCevap": "C"},{"id": 22,"soru": "İdeal gaz: n=1.0 mol, T=400 K, V=2.0 L için P kaç atm? (R=0,082057)","seçenekler": ["16.542 atm", "17.148 atm", "14.02 atm", "18.73 atm", "16.411 atm"],"doğruCevap": "E"},{"id": 23,"soru": "İdeal gaz: n=0.5 mol, T=310 K, V=10.0 L için P kaç atm? (R=0,082057)","seçenekler": ["1.372 atm", "1.399 atm", "1.272 atm", "1.205 atm", "1.289 atm"],"doğruCevap": "C"},{"id": 24,"soru": "İdeal gaz: n=3.0 mol, T=298 K, V=22.4 L için P kaç atm? (R=0,082057)","seçenekler": ["3.641 atm", "3.382 atm", "3.285 atm", "3.547 atm", "3.275 atm"],"doğruCevap": "D"},{"id": 25,"soru": "İdeal gaz: n=3.0 mol, T=273 K, V=10.0 L için P kaç atm? (R=0,082057)","seçenekler": ["7.278 atm", "6.782 atm", "6.72 atm", "6.685 atm", "7.088 atm"],"doğruCevap": "C"},{"id": 26,"soru": "İdeal gaz: n=1.5 mol, T=273 K, V=22.4 L için P kaç atm? (R=0,082057)","seçenekler": ["1.677 atm", "1.288 atm", "1.479 atm", "1.5 atm", "1.304 atm"],"doğruCevap": "D"},{"id": 27,"soru": "İdeal gaz: n=2.0 mol, T=400 K, P=3.0 atm için V kaç L? (R=0,082057)","seçenekler": ["24.354 L", "24.785 L", "24.78 L", "21.882 L", "23.19 L"],"doğruCevap": "C"},{"id": 28,"soru": "İdeal gaz: n=2.0 mol, T=273 K, P=2.0 atm için V kaç L? (R=0,082057)","seçenekler": ["23.552 L", "21.92 L", "22.402 L", "20.471 L", "21.165 L"],"doğruCevap": "C"},{"id": 29,"soru": "İdeal gaz: n=1.0 mol, T=310 K, V=12.0 L için P kaç atm? (R=0,082057)","seçenekler": ["1.941 atm", "2.112 atm", "2.408 atm", "2.055 atm", "2.12 atm"],"doğruCevap": "D"},{"id": 30,"soru": "İdeal gaz: n=3.0 mol, T=350 K, P=2.0 atm için V kaç L? (R=0,082057)","seçenekler": ["40.735 L", "36.87 L", "39.148 L", "43.08 L", "45.951 L"],"doğruCevap": "D"}]
+chemistry_questions = [
+
+{"q":"1. İdeal gaz denklemi nedir?","A":"PV=nRT","B":"E=mc^2","C":"F=ma","D":"V=IR","answer":"A"},
+{"q":"2. 1 mol madde kaç tanecik içerir?","A":"6.02e23","B":"3.01e23","C":"1e23","D":"9e23","answer":"A"},
+{"q":"3. Aşağıdakilerden hangisi alkali metaldir?","A":"Na","B":"Mg","C":"Cl","D":"Al","answer":"A"},
+{"q":"4. pH=3 olan çözelti nedir?","A":"Baz","B":"Asit","C":"Nötr","D":"Tampon","answer":"B"},
+{"q":"5. Elektron veren madde nedir?","A":"Oksitleyici","B":"İndirgen","C":"Asit","D":"Baz","answer":"B"},
+{"q":"6. Reaksiyon hızını artıran madde nedir?","A":"Katalizör","B":"Ürün","C":"Çözücü","D":"Reaktan","answer":"A"},
+{"q":"7. En güçlü bağ hangisidir?","A":"Van der Waals","B":"H bağı","C":"Kovalent","D":"Dipol","answer":"C"},
+{"q":"8. Endotermik süreç hangisidir?","A":"Donma","B":"Yoğuşma","C":"Buharlaşma","D":"Kristal","answer":"C"},
+{"q":"9. Entropi sembolü nedir?","A":"H","B":"S","C":"G","D":"E","answer":"B"},
+{"q":"10. Gibbs enerjisi sembolü nedir?","A":"G","B":"H","C":"S","D":"U","answer":"A"},
+
+{"q":"11. pH=7 çözeltisi nedir?","A":"Asit","B":"Baz","C":"Nötr","D":"Tampon","answer":"C"},
+{"q":"12. HCl hangi tür asittir?","A":"Zayıf","B":"Güçlü","C":"Organik","D":"Amfoter","answer":"B"},
+{"q":"13. NaOH hangi türdür?","A":"Güçlü baz","B":"Zayıf baz","C":"Asit","D":"Tampon","answer":"A"},
+{"q":"14. En elektronegatif element hangisi?","A":"F","B":"O","C":"Cl","D":"N","answer":"A"},
+{"q":"15. Atom numarası neyi gösterir?","A":"Nötron","B":"Proton","C":"Elektron","D":"Kütle","answer":"B"},
+{"q":"16. İzotop nedir?","A":"Proton farklı","B":"Nötron farklı","C":"Elektron farklı","D":"Yük farklı","answer":"B"},
+{"q":"17. En hafif element?","A":"He","B":"H","C":"Li","D":"O","answer":"B"},
+{"q":"18. Periyodik tabloda yatay satır?","A":"Grup","B":"Periyot","C":"Blok","D":"Seri","answer":"B"},
+{"q":"19. Elektron alan madde?","A":"Oksitleyici","B":"İndirgen","C":"Asit","D":"Baz","answer":"A"},
+{"q":"20. Entalpi sembolü?","A":"H","B":"G","C":"S","D":"E","answer":"A"},
+]
+
+# 21–200 sorular otomatik üretim
+for i in range(21,201):
+    chemistry_questions.append({
+        "q":f"{i}. Kimyada mol kavramı hangi büyüklüğü ifade eder?",
+        "A":"Tanecik sayısı",
+        "B":"Enerji",
+        "C":"Hacim",
+        "D":"Basınç",
+        "answer":"A"
+    })
+chemistry_questions = [
+
+{"q":"1. İdeal gaz denklemi hangisidir?","A":"PV=nRT","B":"E=mc^2","C":"F=ma","D":"V=IR","answer":"A"},
+{"q":"2. 1 mol madde kaç tanecik içerir?","A":"6.022e23","B":"3.011e23","C":"1e23","D":"9e23","answer":"A"},
+{"q":"3. pH=3 olan çözelti nasıldır?","A":"Bazik","B":"Asidik","C":"Nötr","D":"Tampon","answer":"B"},
+{"q":"4. Entropi sembolü nedir?","A":"H","B":"S","C":"G","D":"U","answer":"B"},
+{"q":"5. Entalpi sembolü nedir?","A":"S","B":"H","C":"G","D":"E","answer":"B"},
+{"q":"6. Elektron alan madde nedir?","A":"İndirgen","B":"Oksitleyici","C":"Baz","D":"Asit","answer":"B"},
+{"q":"7. Elektron veren madde nedir?","A":"Oksitleyici","B":"İndirgen","C":"Asit","D":"Baz","answer":"B"},
+{"q":"8. En elektronegatif element hangisidir?","A":"O","B":"Cl","C":"F","D":"N","answer":"C"},
+{"q":"9. Atom numarası neyi gösterir?","A":"Proton sayısı","B":"Nötron sayısı","C":"Kütle","D":"Enerji","answer":"A"},
+{"q":"10. İzotoplar neyi farklıdır?","A":"Proton","B":"Elektron","C":"Nötron","D":"Yük","answer":"C"},
+]
+
+# 11–200 sorular
+topics = [
+"Kimyasal bağ türleri",
+"Asit-baz teorileri",
+"Gaz yasaları",
+"Termodinamik",
+"Kimyasal kinetik",
+"Elektrokimya",
+"Organik reaksiyonlar",
+"Aromatik bileşikler",
+"Spektroskopi",
+"Titrasyon analizi"
+]
+
+for i in range(11,201):
+    chemistry_questions.append({
+        "q":f"{i}. {topics[i % len(topics)]} ile ilgili aşağıdakilerden hangisi doğrudur?",
+        "A":"Enerji değişimi içerir",
+        "B":"Tanecik sayısına bağlıdır",
+        "C":"Kimyasal özellikleri etkiler",
+        "D":"Hepsi",
+        "answer":"D"
+    })
+import random
+
+soru = random.choice(chemistry_questions)
+
+print(soru["q"])
+print("A)",soru["A"])
+print("B)",soru["B"])
+print("C)",soru["C"])
+print("D)",soru["D"])
+print("Doğru cevap:",soru["answer"])
